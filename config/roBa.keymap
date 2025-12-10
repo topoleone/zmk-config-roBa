@@ -83,7 +83,7 @@
 &kp Q             &kp W         &kp E         &kp R                       &kp T                                                           &kp Y    &kp U  &kp I      &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F                       &kp G        &kp LEFT_PARENTHESIS        &kp RIGHT_PARENTHESIS  &kp H    &kp J  &kp K      &kp L    &kp ENTER
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V                       &kp B        &lt_to_layer_0 6 SPACE      &kp MINUS              &kp N    &kp M  &kp COMMA  &kp DOT  &kp BACKSPACE
-&kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &lt_to_layer_0 3 LC(SPACE)  &lt 2 SPACE  &lt_to_layer_0 1 F10        &kp ESCAPE             &kp TAB                             &lt_to_layer_0 5 QUESTION
+&kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &lt_to_layer_0 3 LC(SPACE)  &lt 2 SPACE  &lt_to_layer_0 1 F10        &kp DEL                &kp TAB                             &lt_to_layer_0 5 QUESTION
             >;
         };
 
