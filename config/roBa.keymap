@@ -89,10 +89,10 @@
 
         word {
             bindings = <
-&trans  &trans  &trans  &kp KP_NUMBER_3  &trans                                           &kp MINUS      &kp EQUAL    &kp GRAVE  &trans        &trans
-&trans  &trans  &trans  &trans           &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp HASH       &kp AT_SIGN  &kp EXCL   &kp QUESTION  &kp AMPERSAND
-&trans  &trans  &trans  &trans           &trans  &trans                &trans             &kp COMMA      &kp PERIOD   &kp SLASH  &trans        &kp COLON
-&trans  &trans  &trans  &trans           &trans  &trans                &kp ENTER          &kp BACKSPACE                                        &kp BACKSLASH
+&trans  &trans  &trans  &trans  &trans                                           &kp MINUS      &kp EQUAL    &kp GRAVE  &trans        &trans
+&trans  &trans  &trans  &trans  &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp HASH       &kp AT_SIGN  &kp EXCL   &kp QUESTION  &kp AMPERSAND
+&trans  &trans  &trans  &trans  &trans  &trans                &trans             &kp COMMA      &kp PERIOD   &kp SLASH  &trans        &kp COLON
+&trans  &trans  &trans  &trans  &trans  &trans                &kp ENTER          &kp BACKSPACE                                        &kp BACKSLASH
             >;
         };
 
